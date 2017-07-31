@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="de8996e5-2692-46a5-967d-a3e11bcd7509" name="https://github.com/dayarisrt/my-project-meteor.git" url="https://github.com/dayarisrt/my-project-meteor.git">
+        <fileTransfer host="https://github.com/dayarisrt/my-project-meteor.git" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
