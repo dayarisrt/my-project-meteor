@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="https://github.com/dayarisrt/my-project-meteor.git">
+  <component name="PublishConfigData" serverName="https://github.com/dayarisrt/my-project-meteor.git" uploadOnCheckin="de8996e5-2692-46a5-967d-a3e11bcd7509">
     <serverData>
       <paths name="https://github.com/dayarisrt/my-project-meteor.git">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="https://github.com/dayarisrt/my-project-meteor.git" />
   </component>
 </project>
